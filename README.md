@@ -1,5 +1,7 @@
 Alert Logic SIEMless Threat Management API Deployment BASH Tool
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/13961f5d-c192-407e-97ef-c69860cff11d.svg?orgId=367099919619)](https://app.soluble.cloud/repos/details/github.com/james-hastings/al-siemless-api-deploy-bash-tool?orgId=367099919619)  
+
 Requirements: Linux / macOS / Windows w/Ubuntu CLI, jq (you must install the jq JSON formatting tool), you also need to have already created the IAM cross-account role (and have the Role ARN and External ID handy).
 
 Credentials:  By default, this script will prompt you for a username and password, this tool does not support MFA tokens.  It does hover support API key credentials, and will accept those in place of the normal username and password.
